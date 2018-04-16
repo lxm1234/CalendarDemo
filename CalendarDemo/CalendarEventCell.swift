@@ -10,4 +10,5 @@ import UIKit
 
 class CalendarEventCell: UICollectionViewCell {
     
+    @IBOutlet weak var titleLabel: UILabel!
 }
